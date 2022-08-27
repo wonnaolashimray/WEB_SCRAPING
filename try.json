@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Movie",
+  "url": "/title/tt0077451/",
+  "name": "Don",
+  "image": "https://m.media-amazon.com/images/M/MV5BYTYwZjA0NmMtZWJmYy00ZTZlLWEzZTEtZGJhYTQ1NzFkNDQ3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+  "description": "Don, a wanted criminal, dies in a police chase. DSP D&apos;Silva is the only one who knows about his death, and to get hold of the gang he trains Don-lookalike Vijay. But Vijay faces danger from the police and from within the gang.",
+  "review": {
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "CreativeWork",
+      "url": "/title/tt0077451/"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "rabani"
+    },
+    "dateCreated": "2003-06-19",
+    "inLanguage": "English",
+    "name": "great classic",
+    "reviewBody": "Don is a great film its different to other most indian films. Right from the start the first thing that thrills you about this film is the dynamic title music. Its so inspiring and puts you in a good mood for rest of the film. Amitabh&apos;s acting is good as allways and his acting from serious to comedy to serious is super. Zeenat Aman is a tough cat in this. I reccomend young people to watch AB movies they are entertaining just as they were when they was first released. Good supporting cast from Pran. Strong role of Iftikar and that sexy Helen doing best for what she&apos;s good at.The fight scene at the end is well performed and executed. The same music returns and blends well with the action. I give this film 7/10"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 12246,
+    "bestRating": 10,
+    "worstRating": 1,
+    "ratingValue": 7.7
+  },
+  "contentRating": "U",
+  "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "datePublished": "1978-05-12",
+  "keywords": "forename in title,held at gunpoint,impersonation,shot in the leg,cemetery",
+  "trailer": {
+    "@type": "VideoObject",
+    "name": "Don (1978) Trailer",
+    "embedUrl": "/video/imdb/vi113819417",
+    "thumbnail": {
+      "@type": "ImageObject",
+      "contentUrl": "https://m.media-amazon.com/images/M/MV5BNmU5ZGZlZmItYzEyOS00NTdlLTgwM2EtNWQyYzg3OWJmZTEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BNmU5ZGZlZmItYzEyOS00NTdlLTgwM2EtNWQyYzg3OWJmZTEwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "description": "Don, a wanted criminal, dies in a police chase. DSP D&apos;Silva is the only one who knows about his death, and to get hold of the gang he trains Don-lookalike Vijay. But Vijay faces danger from the police and from within the gang."
+  },
+  "actor": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0000821/",
+      "name": "Amitabh Bachchan"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0023868/",
+      "name": "Zeenat Aman"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0695199/",
+      "name": "Pran Sikand"
+    }
+  ],
+  "director": [
+    {
+      "@type": "Person",
+      "url": "/name/nm0056423/",
+      "name": "Chandra Barot"
+    }
+  ],
+  "creator": [
+    {
+      "@type": "Organization",
+      "url": "/company/co0174372/"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0015287/",
+      "name": "Javed Akhtar"
+    },
+    {
+      "@type": "Person",
+      "url": "/name/nm0451311/",
+      "name": "Salim Khan"
+    }
+  ],
+  "duration": "PT2H55M"
+}
